@@ -1,6 +1,5 @@
 import * as React from "react";
-import { Text, View, StyleSheet } from "react-native";
-import { useSharedValue } from "react-native-reanimated";
+import { View, StyleSheet } from "react-native";
 import AnimatedDigit from "./AnimatedDigit";
 
 interface AnimatedNumberProps {
